@@ -1,0 +1,13 @@
+[package]
+name = "employee-management-system"
+version = "0.1.0"
+edition = "2021"
+authors = ["Cellan Hall <hallcellan@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+description = "A simple employee management system."
+repository = ""
+documentation = ""
+homepage = ""
+keywords = ["employee", "management", "system"]
+categories = ["employee", "management", "system"]
